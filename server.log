@@ -293,3 +293,91 @@
 2020-05-21 20:04:20 [INFO] MR_RED_ issued server command: tp MR_RED_ collegestoner
 2020-05-21 20:04:20 [INFO] MR_RED_: Teleporting MR_RED_ to collegestoner.
 2020-05-21 20:04:20 [INFO] leg_fish lost connection: disconnect.quitting
+2020-05-24 15:55:15 [INFO] Starting minecraft server version 1.2.5
+2020-05-24 15:55:15 [INFO] Loading properties
+2020-05-24 15:55:15 [INFO] Starting Minecraft server on *:25565
+2020-05-24 15:55:15 [INFO] Preparing level "world"
+2020-05-24 15:55:15 [INFO] Default game type: 0
+2020-05-24 15:55:15 [INFO] Preparing start region for level 0
+2020-05-24 15:55:16 [INFO] Done (0.827s)! For help, type "help" or "?"
+2020-05-24 15:56:17 [INFO] CollegeStoner [/84.50.220.139:49478] logged in with entity id 355 at (-34.575411897741326, 86.0, 142.07815244469126)
+2020-05-24 15:58:43 [INFO] leg_fish [/90.190.202.163:14240] logged in with entity id 1636 at (-32.67254592250803, 86.0, 144.47286016435166)
+2020-05-24 16:02:38 [INFO] <CollegeStoner> tp collegestoner leg_fish
+2020-05-24 16:02:50 [INFO] CollegeStoner issued server command: tp collegestoner leg_fish
+2020-05-24 16:02:50 [INFO] CollegeStoner: Teleporting collegestoner to leg_fish.
+2020-05-24 16:40:14 [INFO] Unknown console command. Type "help" for help.
+2020-05-24 16:40:17 [INFO] To run the server without a gui, start it like this:
+2020-05-24 16:40:17 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2020-05-24 16:40:17 [INFO] Console commands:
+2020-05-24 16:40:17 [INFO]    help  or  ?               shows this message
+2020-05-24 16:40:17 [INFO]    kick <player>             removes a player from the server
+2020-05-24 16:40:17 [INFO]    ban <player>              bans a player from the server
+2020-05-24 16:40:17 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2020-05-24 16:40:17 [INFO]    ban-ip <ip>               bans an IP address from the server
+2020-05-24 16:40:17 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2020-05-24 16:40:17 [INFO]    op <player>               turns a player into an op
+2020-05-24 16:40:17 [INFO]    deop <player>             removes op status from a player
+2020-05-24 16:40:17 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2020-05-24 16:40:17 [INFO]    give <player> <id> [num]  gives a player a resource
+2020-05-24 16:40:17 [INFO]    tell <player> <message>   sends a private message to a player
+2020-05-24 16:40:17 [INFO]    stop                      gracefully stops the server
+2020-05-24 16:40:17 [INFO]    save-all                  forces a server-wide level save
+2020-05-24 16:40:17 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2020-05-24 16:40:17 [INFO]    save-on                   re-enables terrain saving
+2020-05-24 16:40:17 [INFO]    list                      lists all currently connected players
+2020-05-24 16:40:17 [INFO]    say <message>             broadcasts a message to all players
+2020-05-24 16:40:17 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2020-05-24 16:40:17 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2020-05-24 16:40:17 [INFO]    toggledownfall            toggles rain on or off
+2020-05-24 16:40:17 [INFO]    xp <player> <amount>      gives the player the amount of xp (0-5000)
+2020-05-24 16:41:02 [INFO] Unknown console command. Type "help" for help.
+2020-05-24 16:41:17 [INFO] CONSOLE: Set time to 1000
+2020-05-24 16:41:31 [INFO] Unknown console command. Type "help" for help.
+2020-05-24 16:41:37 [INFO] CONSOLE: Set time to 0
+2020-05-24 16:42:00 [INFO] CONSOLE: Set time to 20000
+2020-05-24 16:42:31 [INFO] CollegeStoner issued server command: time set 0
+2020-05-24 16:42:31 [INFO] CollegeStoner: Set time to 0
+2020-05-24 16:55:41 [INFO] leg_fish issued server command: give LEG_FISH 64 46
+2020-05-24 16:55:41 [INFO] leg_fish: Giving leg_fish some 64
+2020-05-24 16:55:54 [INFO] leg_fish issued server command: give LEG_FISH 46 64
+2020-05-24 16:55:54 [INFO] leg_fish: Giving leg_fish some 46
+2020-05-24 17:20:22 [INFO] Unknown console command. Type "help" for help.
+2020-05-24 17:20:31 [INFO] To run the server without a gui, start it like this:
+2020-05-24 17:20:31 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2020-05-24 17:20:31 [INFO] Console commands:
+2020-05-24 17:20:31 [INFO]    help  or  ?               shows this message
+2020-05-24 17:20:31 [INFO]    kick <player>             removes a player from the server
+2020-05-24 17:20:31 [INFO]    ban <player>              bans a player from the server
+2020-05-24 17:20:31 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2020-05-24 17:20:31 [INFO]    ban-ip <ip>               bans an IP address from the server
+2020-05-24 17:20:31 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2020-05-24 17:20:31 [INFO]    op <player>               turns a player into an op
+2020-05-24 17:20:31 [INFO]    deop <player>             removes op status from a player
+2020-05-24 17:20:31 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2020-05-24 17:20:31 [INFO]    give <player> <id> [num]  gives a player a resource
+2020-05-24 17:20:31 [INFO]    tell <player> <message>   sends a private message to a player
+2020-05-24 17:20:31 [INFO]    stop                      gracefully stops the server
+2020-05-24 17:20:31 [INFO]    save-all                  forces a server-wide level save
+2020-05-24 17:20:31 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2020-05-24 17:20:31 [INFO]    save-on                   re-enables terrain saving
+2020-05-24 17:20:31 [INFO]    list                      lists all currently connected players
+2020-05-24 17:20:31 [INFO]    say <message>             broadcasts a message to all players
+2020-05-24 17:20:31 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2020-05-24 17:20:31 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2020-05-24 17:20:31 [INFO]    toggledownfall            toggles rain on or off
+2020-05-24 17:20:31 [INFO]    xp <player> <amount>      gives the player the amount of xp (0-5000)
+2020-05-24 17:20:47 [INFO] Unknown console command. Type "help" for help.
+2020-05-24 17:20:56 [INFO] Toggling rain and snow, hold on...
+2020-05-24 17:23:41 [INFO] CollegeStoner issued server command: tp collegestoner leg_fish
+2020-05-24 17:23:41 [INFO] CollegeStoner: Teleporting collegestoner to leg_fish.
+2020-05-24 17:26:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2020-05-24 17:35:37 [INFO] leg_fish issued server command: tp collegestoner leg_fish
+2020-05-24 17:36:00 [INFO] leg_fish issued server command: tp collegestoner leg_fish
+2020-05-24 17:36:00 [INFO] leg_fish: Teleporting collegestoner to leg_fish.
+2020-05-24 17:36:20 [INFO] CONSOLE: Forcing save..
+2020-05-24 17:36:20 [INFO] CONSOLE: Save complete.
+2020-05-24 17:36:30 [INFO] Unknown console command. Type "help" for help.
+2020-05-24 17:36:30 [INFO] leg_fish lost connection: disconnect.quitting
+2020-05-24 17:36:34 [INFO] CONSOLE: Forcing save..
+2020-05-24 17:36:34 [INFO] CONSOLE: Save complete.
+2020-05-24 17:36:37 [INFO] CollegeStoner lost connection: disconnect.quitting
